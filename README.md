@@ -1,6 +1,5 @@
 # Raiders
 Online Multiplayer Base Building and PvP Game
 
-
-https://github.com/user-attachments/assets/d1414a8b-a6dd-4582-8f56-e565d90500a2
+https://github.com/user-attachments/assets/e28dbe85-d40d-42d3-9a26-891276a2597a
 
